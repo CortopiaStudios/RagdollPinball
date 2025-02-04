@@ -118,6 +118,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Swordsman01
       objectReference: {fileID: 0}
+    - target: {fileID: 2036340639874169423, guid: ba6f36b3b84b45246abd32e87c689589,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: ba6f36b3b84b45246abd32e87c689589,
         type: 3}
       propertyPath: m_Enabled
