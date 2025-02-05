@@ -86,7 +86,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Tiling: 0.1
+    - Tiling: 0.3
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
