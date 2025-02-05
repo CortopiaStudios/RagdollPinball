@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2126611187400701536}
   - component: {fileID: 5295786058316493263}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Line
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -150,7 +150,7 @@ GameObject:
   - component: {fileID: 4630437465231392947}
   - component: {fileID: 5482989966073087219}
   - component: {fileID: 2502603646465372842}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Ball
   m_TagString: Ball
   m_Icon: {fileID: 0}
@@ -281,7 +281,7 @@ GameObject:
   - component: {fileID: 7906492922329657524}
   - component: {fileID: 1856850276366822943}
   - component: {fileID: 665301945466799617}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: BallGFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -361,9 +361,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1542564734263506722}
     m_Modifications:
+    - target: {fileID: 1063051830369628, guid: bb98861c48ad2024ca93498c7dd93a6c, type: 3}
+      propertyPath: m_Layer
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 1901245927194888, guid: bb98861c48ad2024ca93498c7dd93a6c, type: 3}
       propertyPath: m_Name
       value: LargeFlames
+      objectReference: {fileID: 0}
+    - target: {fileID: 1901245927194888, guid: bb98861c48ad2024ca93498c7dd93a6c, type: 3}
+      propertyPath: m_Layer
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1901245927194888, guid: bb98861c48ad2024ca93498c7dd93a6c, type: 3}
       propertyPath: m_IsActive
